@@ -19,3 +19,11 @@ function App() {
 }
 
 export default App;
+
+
+// const getCar = async () => {
+//   const response = await fetch('https://randomuser.me/api/');
+//   const data = await response.json();
+//   return data;
+// };
+// getCar().then(data => console.log(data.results[0]))
